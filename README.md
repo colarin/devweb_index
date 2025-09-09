@@ -18,7 +18,7 @@ Cada link leva ao site publicado da respectiva atividade:
 | Atividade 1 | Estutura básica de HTMl | [Acessar site](https://colarin.github.io/Atividade1/) |
 | Atividade 2 | Estutura básica de HTMl | [Acessar site](https://colarin.github.io/Atividade2/) |
 | Atividade 3 | Manipulando tipos de título | [Acessar site](https://colarin.github.io/Atividade3/) |
-| Atividade 4 | Manipulando texto | [Acessar site](https://colarin.github.io/Atividade4/) |
+| Atividade 4 | Manipulando texto | [Acessar site](https://colarin.github.io/Ativiadade4/) |
 | Atividade 5 | Criação de listas | [Acessar site](https://colarin.github.io/Atividade5/) |
 | Atividade 6 | Manipulando listas | [Acessar site](https://colarin.github.io/Atividade6/) |
 | Atividade 7 | Manipulando listas | [Acessar site](https://colarin.github.io/Atividade7/) |
